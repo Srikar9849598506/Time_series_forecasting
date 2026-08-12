@@ -1,0 +1,7 @@
+test,series,statistic,p_value,conclusion
+ADF,raw series,-8.948888280256886,8.833753129594494e-15,stationary (reject H0)
+KPSS,raw series,0.03839879299909173,0.1,stationary (fail to reject H0)
+ADF,first difference,-16.95257439705065,9.437199196923698e-30,stationary (reject H0)
+KPSS,first difference,0.07832177299842098,0.1,stationary (fail to reject H0)
+ADF,seasonal difference (24h),-13.593416808868916,2.0162731913542279e-25,stationary (reject H0)
+KPSS,seasonal difference (24h),0.008673777652856037,0.1,stationary (fail to reject H0)

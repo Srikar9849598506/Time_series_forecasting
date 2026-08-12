@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+xgboost
+torch
+chronos-forecasting==2.3.1
+pytest
